@@ -1,3 +1,7 @@
+// 2D array
+Author: Winnie Nasimiyu 
+Date:7/11/2024
+Reg No:CT102/G/23213/24
 #include<stdio.h>
 int main() {
 	int p,q;
