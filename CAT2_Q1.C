@@ -1,3 +1,4 @@
+//c program to define a structure named employee 
 #include<stdio.h>
 #include<string.h>
 
